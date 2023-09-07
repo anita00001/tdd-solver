@@ -1,21 +1,23 @@
 # Test-Driven-Development
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Key Features](#key-features)
-- [💻 Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Setup](#setup)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
+- [Test-Driven-Development](#test-driven-development)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Test-Driven-Development ](#-test-driven-development-)
+  - [🛠 Built With ](#-built-with-)
+    - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
 # 📖 Test-Driven-Development <a name="about-project"></a>
 
@@ -107,11 +109,12 @@ Install this project with:
 > - LinkedIn: [anitaa-sharmaa](https://www.linkedin.com/in/anitaa-sharmaa/)
 > - Twitter: [@anitaa_sharmaa](https://twitter.com/anitaa_sharmaa)
 <br>
-👤 **Author2**
 
-> - GitHub: [Author2](https://github.com/author2)
-> - Twitter: [Author2](https://twitter.com/author2)
-> - LinkedIn: [Author2](https://www.linkedin.com/in/author2)
+👤 **Muhammad Amran Khan (Mike)**
+
+> - GitHub: [@Mike111222](https://github.com/Mike111222)
+> - Twitter: [@iMike111222](https://twitter.com/iMike111222)
+> - LinkedIn: [@iMikeKhan](https://www.linkedin.com/in/iMikeKhan)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
