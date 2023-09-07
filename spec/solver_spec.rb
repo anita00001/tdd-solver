@@ -20,4 +20,10 @@ describe Solver do
       expect { @solver.factorial(-1) }.to raise_error(ArgumentError)
     end
   end
+
+  describe "Reverse String method" do
+  end
+
+  describe "FizzBuzz method" do
+  end
 end
