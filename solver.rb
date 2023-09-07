@@ -1,10 +1,8 @@
 class Solver
   def factorial(num)
-    if num < 0
-      raise ArgumentError
-    end
+    raise ArgumentError if num.negative?
 
-    if num == 0
+    if num.zero?
       1
     else
       num * factorial(num - 1)
