@@ -1,7 +1,9 @@
 require_relative '../solver'
 
 describe Solver do
-  @solver = Solver.new
+  before(:each) do
+    @solver = Solver.new
+  end
 
   describe "Factorial method" do
     it "Factorial of 5 should be equal to 120" do
